@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="200 60 280 280" width="280" height="280">
+  <title>Ikon logo Gamepedia bentuk game controller</title>
+  <rect x="210" y="70" width="260" height="260" rx="48" fill="#1c1c1c"/>
+  <circle cx="275" cy="225" r="34" fill="#f7f5f2"/>
+  <circle cx="405" cy="225" r="34" fill="#f7f5f2"/>
+  <rect x="260" y="165" width="160" height="70" rx="35" fill="#f7f5f2"/>
+  <rect x="295" y="186" width="10" height="28" rx="2" fill="#1c1c1c"/>
+  <rect x="286" y="195" width="28" height="10" rx="2" fill="#1c1c1c"/>
+  <circle cx="380" cy="188" r="6" fill="#d97757"/>
+  <circle cx="368" cy="200" r="6" fill="#d97757"/>
+  <circle cx="392" cy="200" r="6" fill="#d97757"/>
+  <circle cx="380" cy="212" r="6" fill="#d97757"/>
+</svg>
